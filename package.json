@@ -1,0 +1,19 @@
+{
+  "name": "@idob-legit/package-creation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idob-legit/package-creation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idob-legit/package-creation/issues"
+  },
+  "homepage": "https://github.com/idob-legit/package-creation#readme"
+}
